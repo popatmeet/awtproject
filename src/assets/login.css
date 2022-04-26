@@ -1,0 +1,37 @@
+.button {
+        background-color: white; /* Green */
+        border: none;
+        color: black;
+        padding: 16px 50px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin-top: 20px;
+        margin-left: 25%;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        border-radius: 2px;
+}
+
+.button:hover {
+    background-color: gray; /* Green */
+    color: white;
+}
+
+.label{
+    font-size: 20px;
+    color: black;
+}
+
+.div{
+    margin-top: 12px;
+}
+
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
